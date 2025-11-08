@@ -1,0 +1,15 @@
+.product-card{
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    background-color: silver;
+    border-radius: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 80px;
+}
+.product-card button{
+    padding: 10px 20px;
+    font-size: 12px;
+    cursor: pointer;
+}   
