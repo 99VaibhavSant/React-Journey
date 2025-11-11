@@ -1,0 +1,8 @@
+.Group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;   /* vertical centering */
+  justify-content: center; /* horizontal centering */
+  gap: 30px;
+  height: 100vh; /* optional: makes the container full height for vertical centering */
+}
