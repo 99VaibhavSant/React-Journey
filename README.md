@@ -1,5 +1,10 @@
 # 🚀 React Journey  
-![Banner](https://via.placeholder.com/1200x300?text=React+Journey)
+# 🚀 React Journey
+
+<p align="center">
+  <img src="React-Journey.png" width="400" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/ReactJS-Learning-blue" />
