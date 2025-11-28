@@ -76,13 +76,7 @@ React-Journey/
 - **React.js**  
 - **JavaScript (ES6+)**  
 - **HTML5 / CSS3**  
-- **Vite / CRA**  
-
----
-
-## 📄 License  
-Licensed under the **MIT License**.
-
+- **Vite / CRA**
 ---
 
 ## ⭐ Support  
