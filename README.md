@@ -1,5 +1,4 @@
 # 🚀 React Journey  
-# 🚀 React Journey
 
 <p align="center">
   <img src="React-Journey.png" width="400" />
