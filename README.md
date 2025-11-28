@@ -56,11 +56,6 @@
 - ⚡ Counter App  
 - 📝 Todo App  
 - 🌦 Weather App  
-- 🎭 Quote Generator  
-- 🔍 API Fetch App  
-- 🖼 Image Gallery  
-- 🧮 Calculator  
-
 ---
 
 ## 📁 Project Structure  
